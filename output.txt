@@ -1,0 +1,101 @@
+globals.h(75): Count of passenger is: 1
+globals.h(102): Departure City: Los Angeles
+globals.h(103): Cost ticket OUT: 372;310;04/25/2020
+globals.h(104): Cost ticket Return: 730;327;04/26/2020
+globals.h(105): Seating Preference: Aisle
+globals.h(106): Type of Seat: First
+globals.h(107): 
+globals.h(75): Count of passenger is: 7
+globals.h(102): Departure City: Los Angeles
+globals.h(103): Cost ticket OUT: 383;794;04/27/2020
+globals.h(104): Cost ticket Return: 833;794;04/28/2020
+globals.h(105): Seating Preference: Aisle
+globals.h(106): Type of Seat: Business
+globals.h(107): 
+globals.h(75): Count of passenger is: 1
+globals.h(102): Departure City: Los Angeles
+globals.h(103): Cost ticket OUT: 382;918;04/29/2020
+globals.h(104): Cost ticket Return: 833;794;04/30/2020
+globals.h(105): Seating Preference: None
+globals.h(106): Type of Seat: Business
+globals.h(107): 
+globals.h(75): Count of passenger is: 1
+globals.h(102): Departure City: Los Angeles
+globals.h(103): Cost ticket OUT: 353;303;04/25/2020
+globals.h(104): Cost ticket Return: 530;371;04/26/2020
+globals.h(105): Seating Preference: Aisle
+globals.h(106): Type of Seat: First
+globals.h(107): 
+globals.h(75): Count of passenger is: 4
+globals.h(102): Departure City: Los Angeles
+globals.h(103): Cost ticket OUT: 311;378;04/27/2020
+globals.h(104): Cost ticket Return: 132;577;04/28/2020
+globals.h(105): Seating Preference: None
+globals.h(106): Type of Seat: First
+globals.h(107): 
+globals.h(75): Count of passenger is: 4
+globals.h(102): Departure City: Los Angeles
+globals.h(103): Cost ticket OUT: 371;155;04/29/2020
+globals.h(104): Cost ticket Return: 731;155;04/30/2020
+globals.h(105): Seating Preference: Window
+globals.h(106): Type of Seat: Coach
+globals.h(107): 
+globals.h(75): Count of passenger is: 4
+globals.h(102): Departure City: Los Angeles
+globals.h(103): Cost ticket OUT: 300;472;04/25/2020
+globals.h(104): Cost ticket Return: 033;386;04/26/2020
+globals.h(105): Seating Preference: None
+globals.h(106): Type of Seat: First
+globals.h(107): 
+globals.h(75): Count of passenger is: 1
+globals.h(102): Departure City: Los Angeles
+globals.h(103): Cost ticket OUT: 391;670;04/27/2020
+globals.h(104): Cost ticket Return: 933;531;04/28/2020
+globals.h(105): Seating Preference: None
+globals.h(106): Type of Seat: First
+globals.h(107): 
+globals.h(75): Count of passenger is: 6
+globals.h(102): Departure City: Los Angeles
+globals.h(103): Cost ticket OUT: 300;365;04/29/2020
+globals.h(104): Cost ticket Return: 031;325;04/30/2020
+globals.h(105): Seating Preference: Aisle
+globals.h(106): Type of Seat: Business
+globals.h(107): 
+globals.h(75): Count of passenger is: 7
+globals.h(102): Departure City: Los Angeles
+globals.h(103): Cost ticket OUT: 383;794;04/25/2020
+globals.h(104): Cost ticket Return: 832;918;04/26/2020
+globals.h(105): Seating Preference: Aisle
+globals.h(106): Type of Seat: Business
+globals.h(107): 
+Action2.c(75): Number of passenger is: 0
+Action2.c(77): Summary cost of this ticket is: 637$
+Action2.c(78): ________________________________________
+Action2.c(75): Number of passenger is: 0
+Action2.c(77): Summary cost of this ticket is: 1712$
+Action2.c(78): ________________________________________
+Action2.c(75): Number of passenger is: 0
+Action2.c(77): Summary cost of this ticket is: 674$
+Action2.c(78): ________________________________________
+Action2.c(75): Number of passenger is: 0
+Action2.c(77): Summary cost of this ticket is: 1201$
+Action2.c(78): ________________________________________
+Action2.c(75): Number of passenger is: 4
+Action2.c(77): Summary cost of this ticket is: 1240$
+Action2.c(78): ________________________________________
+Action2.c(75): Number of passenger is: 4
+Action2.c(77): Summary cost of this ticket is: 3432$
+Action2.c(78): ________________________________________
+Action2.c(75): Number of passenger is: 4
+Action2.c(77): Summary cost of this ticket is: 3820$
+Action2.c(78): ________________________________________
+Action2.c(75): Number of passenger is: 6
+Action2.c(77): Summary cost of this ticket is: 4140$
+Action2.c(78): ________________________________________
+Action2.c(75): Number of passenger is: 7
+Action2.c(77): Summary cost of this ticket is: 11116$
+Action2.c(78): ________________________________________
+Action2.c(75): Number of passenger is: 7
+Action2.c(77): Summary cost of this ticket is: 11984$
+Action2.c(78): ________________________________________
+Vuser Terminated.
